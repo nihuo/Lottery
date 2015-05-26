@@ -10,3 +10,5 @@ Requirement: Visual Studio 2013
 > * csv第一行会被当成标题行忽略
 > * csv每行数据必须依次为 Ticket No.,English Name,中文全名,Mobile Phone,Email,Club,Division,Area,Ticket type。 
 > * 需要检查导出的csv文件末尾，如果有无效数据需要删除， 不得有空行
+
+可执行文件在 [Release/choujiang.zip](https://raw.githubusercontent.com/nihuo/Lottery/master/Release/choujiang.zip)
